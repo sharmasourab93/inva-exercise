@@ -35,7 +35,7 @@ use pyspark only , where pipeline runs parallely
   Solution not attempted.
 
 5. Create a sample api which takes path of csv file as input and return central tendencies if success
-    Solution in `ex_4.py`
+    Solution in `ex_5.py`
 
 6. Create fibonacci series with recursive function for 10 numbers
     Fibonacci sequence:
